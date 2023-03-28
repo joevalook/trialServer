@@ -1,0 +1,2 @@
+class ListOfSpacesController < ApplicationController
+end
